@@ -39,7 +39,7 @@ https://sermons.logos.com/profile/sidneyyuan-n
 此工具能快速找到相關講道、摘要、經文與音檔連結。
 
 👉 **前往使用：**  
-https://huggingface.co/spaces/YOUR_USERNAME/YOUR_APP
+https://huggingface.co/spaces/Yutopian/YOUR_APP
 
 ---
 
@@ -57,7 +57,7 @@ https://huggingface.co/spaces/YOUR_USERNAME/YOUR_APP
 （可選）  
 若您希望聯絡袁惠鈞牧師，可透過以下方式：
 
-Email: your-email@example.com  
+Email: sidneywyuan@gmail.com  
 或透過教會官方網站聯絡。
 
 ---
