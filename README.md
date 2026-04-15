@@ -18,15 +18,14 @@
 以下為牧師公開的講道資源，包括音檔、講義、PDF 與逐字稿：
 
 - **講道音檔（Archive.org, Logos.com）**  
-https://archive.org/details/@user93129
-
-https://sermons.logos.com/profile/sidneyyuan-n
+- https://archive.org/details/@user93129
+- https://sermons.logos.com/profile/sidneyyuan-n
 
 - **講道 PDF 與講義（Hugging Face Dataset）**  
-  https://huggingface.co/datasets/Yutopian
+- https://huggingface.co/datasets/Yutopian
 
 - **AI 講道搜尋（Sermon Search App）**  
-  https://huggingface.co/spaces/Yutopian
+- https://huggingface.co/spaces/Yutopian
 
 ---
 
