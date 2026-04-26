@@ -27,8 +27,9 @@
 - https://archive.org/details/@user93129
 - https://sermons.logos.com/profile/sidneyyuan-n
 
-**講道 PDF 與講義（Hugging Face Dataset）**  
+**講道 PDF 與講義（Hugging Face & Github Dataset）**  
 - https://huggingface.co/datasets/Yutopian
+- https://github.com/Yutopians
 
 **AI 講道搜尋（Sermon Search App）**  
 - https://huggingface.co/spaces/Yutopian
