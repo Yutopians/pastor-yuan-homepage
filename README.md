@@ -29,7 +29,7 @@
 
 ---
 
-## 🎧 袁牧師講道的聖經書本 Books Preached by Rev. Yuan
+## 🎧 袁牧師講道的聖經書本 Bible Books Preached by Rev. Yuan
 舊約-\
 摩西五經:\
 [創世紀](https://archive.org/details/@user93129/lists/29/genesis-series?sort=title), [出埃及記](https://archive.org/details/@user93129/lists/26/exodus-series?sort=title), [利未記](https://archive.org/details/@user93129/lists/24/leviticus-series?sort=title), [民數記](https://archive.org/details/@user93129/lists/22/numbers-series?sort=title), [申命記](https://archive.org/details/@user93129/lists/17/deuteronomy-series?sort=title).\
