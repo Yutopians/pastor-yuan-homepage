@@ -34,7 +34,7 @@
 摩西五經:\
 [創世紀](https://archive.org/details/@user93129/lists/29/genesis-series?sort=title), [出埃及記](https://archive.org/details/@user93129/lists/26/exodus-series?sort=title), [利未記](https://archive.org/details/@user93129/lists/24/leviticus-series?sort=title), [民數記](https://archive.org/details/@user93129/lists/22/numbers-series?sort=title), [申命記](https://archive.org/details/@user93129/lists/17/deuteronomy-series?sort=title).\
 歷史書:\
-[約書亞記](https://archive.org/details/@user93129/lists/9/joshua-series?sort=title), [士師記](https://archive.org/details/@user93129/lists/5/judges-series?sort=title), [路得記](https://archive.org/details/@user93129/lists/4/ruth-series?sort=title), [撒母耳記](https://archive.org/details/@user93129/lists/3/samuel-series?sort=title), [(大衛傳)](https://archive.org/details/@user93129/lists/2/david-series?sort=title), 列王紀: 合一王朝\
+[約書亞記](https://archive.org/details/@user93129/lists/9/joshua-series?sort=title), [士師記](https://archive.org/details/@user93129/lists/5/judges-series?sort=title), [路得記](https://archive.org/details/@user93129/lists/4/ruth-series?sort=title), [撒母耳記](https://archive.org/details/@user93129/lists/3/samuel-series?sort=title), [(大衛傳)](https://archive.org/details/@user93129/lists/2/david-series?sort=title), 列王紀: [合一王朝](https://archive.org/details/@user93129/lists/33/united-kingdom-series?sort=title)\
 智慧書:\
 [箴言](https://archive.org/details/@user93129/lists/14/proverbs-series?sort=title), [雅歌](https://archive.org/details/@user93129/lists/11/song-of-songs-series?sort=title).\
 先知書:\
