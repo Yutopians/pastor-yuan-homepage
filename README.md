@@ -17,20 +17,20 @@
 ## 🎧 講道與教導 Sermons & Teachings
 以下為牧師公開的講道資源，包括音檔、講義、PDF 與逐字稿：
 
-- **Youtube 講道**
+  **Youtube 講道**
 - https://www.youtube.com/playlist?list=PLtrnB_vqQmqSIUD4DezKWYkqfNPRIcAz-
   
-- **華人教會網絡的講道**
+  **華人教會網絡的講道**
 - https://www.church.com.hk/acms/content.asp?site=cdc&op=search&type=product&field=author&text=%E8%A2%81%E6%83%A0%E9%88%9E
 
-- **講道音檔（Archive.org, Logos.com）**  
+  **講道音檔（Archive.org, Logos.com）**  
 - https://archive.org/details/@user93129
 - https://sermons.logos.com/profile/sidneyyuan-n
 
   **講道 PDF 與講義（Hugging Face Dataset）**  
 - https://huggingface.co/datasets/Yutopian
 
-- **AI 講道搜尋（Sermon Search App）**  
+  **AI 講道搜尋（Sermon Search App）**  
 - https://huggingface.co/spaces/Yutopian
 
 ---
