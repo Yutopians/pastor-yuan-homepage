@@ -83,8 +83,8 @@ https://huggingface.co/spaces/Yutopian/YOUR_APP
   
 若您希望聯絡袁惠鈞牧師，可透過以下方式：
 
-Email: sidneywyuan@gmail.com  
-或透過教會官方網站聯絡。
+Email: sidneywyuan@gmail.com  \
+或透過教會官方網站聯絡。 \
 Webpage: http://www.ccac.ws/cantonese/
 
 ---
