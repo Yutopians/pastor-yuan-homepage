@@ -48,7 +48,7 @@
 書信:\
 [羅馬書](https://archive.org/details/@user93129/lists/1/romans-series?sort=title)，[以弗所書](https://archive.org/details/@user93129/lists/13/ephesians-series?sort=title)，[哥羅西書](https://archive.org/details/@user93129/lists/23/colossians-series?sort=title)\
 預言書:\
-[啟示錄](https://archive.org/details/@user93129/lists/27/revelation-series?sort=title)\
+[啟示錄](https://archive.org/details/@user93129/lists/27/revelation-series?sort=title)
 
 其他系列:\
 [天堂系列](https://archive.org/details/@user93129/lists/12/heaven-series?sort=title), [神經可信嗎系列](https://archive.org/details/@user93129/lists/8/bible-series?sort=title), [聖經難題解答](https://archive.org/details/@user93129/lists/32/q%26a-series?sort=title)
