@@ -30,27 +30,27 @@
 ---
 
 ## 🎧 袁牧師講道的聖經書本 Books Preached by Rev. Yuan
-舊約-
-摩西五經:
-[創世紀](https://archive.org/details/@user93129/lists/29/genesis-series?sort=title), [出埃及記](https://archive.org/details/@user93129/lists/26/exodus-series?sort=title), [利未記](https://archive.org/details/@user93129/lists/24/leviticus-series?sort=title), [民數記](https://archive.org/details/@user93129/lists/22/numbers-series?sort=title), [申命記](https://archive.org/details/@user93129/lists/17/deuteronomy-series?sort=title).
-歷史書:
-[約書亞記](https://archive.org/details/@user93129/lists/9/joshua-series?sort=title), [士師記](https://archive.org/details/@user93129/lists/5/judges-series?sort=title), [路得記](https://archive.org/details/@user93129/lists/4/ruth-series?sort=title), [撒母耳記](https://archive.org/details/@user93129/lists/3/samuel-series?sort=title), [(大衛傳)](https://archive.org/details/@user93129/lists/2/david-series?sort=title), 列王紀: 合一王朝
-智慧書:
-[箴言](https://archive.org/details/@user93129/lists/14/proverbs-series?sort=title), [雅歌](https://archive.org/details/@user93129/lists/11/song-of-songs-series?sort=title).
-先知書:
-[耶利米哀歌](https://archive.org/details/@user93129/lists/10/lamentation-series?sort=title), [但以理書](https://archive.org/details/@user93129/lists/19/daniel-series?sort=title), [十二先知書](https://archive.org/details/@user93129/lists/15/twelve-prophets-series?sort=title).
+舊約-\
+摩西五經:\
+[創世紀](https://archive.org/details/@user93129/lists/29/genesis-series?sort=title), [出埃及記](https://archive.org/details/@user93129/lists/26/exodus-series?sort=title), [利未記](https://archive.org/details/@user93129/lists/24/leviticus-series?sort=title), [民數記](https://archive.org/details/@user93129/lists/22/numbers-series?sort=title), [申命記](https://archive.org/details/@user93129/lists/17/deuteronomy-series?sort=title).\
+歷史書:\
+[約書亞記](https://archive.org/details/@user93129/lists/9/joshua-series?sort=title), [士師記](https://archive.org/details/@user93129/lists/5/judges-series?sort=title), [路得記](https://archive.org/details/@user93129/lists/4/ruth-series?sort=title), [撒母耳記](https://archive.org/details/@user93129/lists/3/samuel-series?sort=title), [(大衛傳)](https://archive.org/details/@user93129/lists/2/david-series?sort=title), 列王紀: 合一王朝\
+智慧書:\
+[箴言](https://archive.org/details/@user93129/lists/14/proverbs-series?sort=title), [雅歌](https://archive.org/details/@user93129/lists/11/song-of-songs-series?sort=title).\
+先知書:\
+[耶利米哀歌](https://archive.org/details/@user93129/lists/10/lamentation-series?sort=title), [但以理書](https://archive.org/details/@user93129/lists/19/daniel-series?sort=title), [十二先知書](https://archive.org/details/@user93129/lists/15/twelve-prophets-series?sort=title).\
 
-新約-
-福音書:
-馬太福音 [八福](https://archive.org/details/@user93129/lists/28/matthew-beatitude-series?sort=title), [主禱文](https://archive.org/details/@user93129/lists/20/matthew_lord's-prayer-series?sort=title), [背起十字架，來跟隨基督](https://archive.org/details/@user93129/lists/16/cross-bearing-series?sort=title), [天國比喻](https://archive.org/details/@user93129/lists/18/matthew_kingdom-series?sort=title), 馬可福音 [亦主亦僕](https://archive.org/details/@user93129/lists/25/mark-series?sort=title), 路加福音 [天國奧秘](https://archive.org/details/@user93129/lists/21/luke_kingdom-parables-series?sort=title), 約翰福音 [仁心仁蹟](https://archive.org/details/@user93129/lists/30/john-miracle-series?sort=title), [得勝的生命](https://archive.org/details/@user93129/lists/31/john-triumphant-life-series?sort=title).
-歷史書:
-[使徒行傳](https://archive.org/details/@user93129/lists/7/acts-series?sort=title)
-書信:
-[羅馬書](https://archive.org/details/@user93129/lists/1/romans-series?sort=title)，[以弗所書](https://archive.org/details/@user93129/lists/13/ephesians-series?sort=title)，[哥羅西書](https://archive.org/details/@user93129/lists/23/colossians-series?sort=title)
-預言書:
-[啟示錄](https://archive.org/details/@user93129/lists/27/revelation-series?sort=title)
+新約-\
+福音書:\
+馬太福音 [八福](https://archive.org/details/@user93129/lists/28/matthew-beatitude-series?sort=title), [主禱文](https://archive.org/details/@user93129/lists/20/matthew_lord's-prayer-series?sort=title), [背起十字架，來跟隨基督](https://archive.org/details/@user93129/lists/16/cross-bearing-series?sort=title), [天國比喻](https://archive.org/details/@user93129/lists/18/matthew_kingdom-series?sort=title), 馬可福音 [亦主亦僕](https://archive.org/details/@user93129/lists/25/mark-series?sort=title), 路加福音 [天國奧秘](https://archive.org/details/@user93129/lists/21/luke_kingdom-parables-series?sort=title), 約翰福音 [仁心仁蹟](https://archive.org/details/@user93129/lists/30/john-miracle-series?sort=title), [得勝的生命](https://archive.org/details/@user93129/lists/31/john-triumphant-life-series?sort=title).\
+歷史書:\
+[使徒行傳](https://archive.org/details/@user93129/lists/7/acts-series?sort=title)\
+書信:\
+[羅馬書](https://archive.org/details/@user93129/lists/1/romans-series?sort=title)，[以弗所書](https://archive.org/details/@user93129/lists/13/ephesians-series?sort=title)，[哥羅西書](https://archive.org/details/@user93129/lists/23/colossians-series?sort=title)\
+預言書:\
+[啟示錄](https://archive.org/details/@user93129/lists/27/revelation-series?sort=title)\
 
-其他系列:
+其他系列:\
 [天堂系列](https://archive.org/details/@user93129/lists/12/heaven-series?sort=title), [神經可信嗎系列](https://archive.org/details/@user93129/lists/8/bible-series?sort=title), [聖經難題解答](https://archive.org/details/@user93129/lists/32/q%26a-series?sort=title)
 
 ---
