@@ -38,7 +38,7 @@
 智慧書:\
 [箴言](https://archive.org/details/@user93129/lists/14/proverbs-series?sort=title), [雅歌](https://archive.org/details/@user93129/lists/11/song-of-songs-series?sort=title).\
 先知書:\
-[耶利米哀歌](https://archive.org/details/@user93129/lists/10/lamentation-series?sort=title), [但以理書](https://archive.org/details/@user93129/lists/19/daniel-series?sort=title), [十二先知書](https://archive.org/details/@user93129/lists/15/twelve-prophets-series?sort=title).\
+[耶利米哀歌](https://archive.org/details/@user93129/lists/10/lamentation-series?sort=title), [但以理書](https://archive.org/details/@user93129/lists/19/daniel-series?sort=title), [十二先知書](https://archive.org/details/@user93129/lists/15/twelve-prophets-series?sort=title).
 
 新約-\
 福音書:\
