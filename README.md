@@ -60,7 +60,7 @@
 <b>其他系列:</b>\
 [天堂系列](https://archive.org/details/@user93129/lists/12/heaven-series?sort=title), [神經可信嗎系列](https://archive.org/details/@user93129/lists/8/bible-series?sort=title), [聖經難題解答](https://archive.org/details/@user93129/lists/32/q%26a-series?sort=title)
 
-<b>單元講道:</b>[Click Here](https://archive.org/details/@user93129/lists/38/single-message-series?sort=title)
+<b>單元講道:</b>[在此按](https://archive.org/details/@user93129/lists/38/single-message-series?sort=title)
 
 <b>節期信息:</b>\
 [聖誕節](https://archive.org/details/@user93129/lists/37/christmas-series?sort=title)，[復活節](https://archive.org/details/@user93129/lists/36/easter-series?sort=title)，[父親節](https://archive.org/details/@user93129/lists/35/father's-day-series?sort=title)，[母親節](https://archive.org/details/@user93129/lists/34/mother's-day-series?sort=title)
