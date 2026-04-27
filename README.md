@@ -53,7 +53,7 @@
 歷史書:\
 [使徒行傳](https://archive.org/details/@user93129/lists/7/acts-series?sort=title)\
 書信:\
-[羅馬書](https://archive.org/details/@user93129/lists/1/romans-series?sort=title)，[以弗所書](https://archive.org/details/@user93129/lists/13/ephesians-series?sort=title)，[哥羅西書](https://archive.org/details/@user93129/lists/23/colossians-series?sort=title)\
+[羅馬書](https://archive.org/details/@user93129/lists/1/romans-series?sort=title)，[以弗所書](https://archive.org/details/@user93129/lists/13/ephesians-series?sort=title)，[歌羅西書](https://archive.org/details/@user93129/lists/23/colossians-series?sort=title)\
 預言書:\
 [啟示錄](https://archive.org/details/@user93129/lists/27/revelation-series?sort=title)
 
