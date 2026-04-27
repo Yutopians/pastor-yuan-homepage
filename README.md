@@ -24,7 +24,7 @@
 - https://www.church.com.hk/acms/content.asp?site=cdc&op=search&type=product&field=author&text=%E8%A2%81%E6%83%A0%E9%88%9E
 
 **講道音檔（Archive.org, Logos.com）**  
-- https://archive.org/details/@user93129
+- https://archive.org/details/@user93129?sort=-date
 - https://sermons.logos.com/profile/sidneyyuan-n
 
 **講道 PDF 與講義（Hugging Face & Github Dataset）**  
