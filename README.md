@@ -58,7 +58,7 @@
 [啟示錄](https://archive.org/details/@user93129/lists/27/revelation-series?sort=title)
 
 <b>其他系列:</b>\
-[天堂系列](https://archive.org/details/@user93129/lists/12/heaven-series?sort=title), [神經可信嗎系列](https://archive.org/details/@user93129/lists/8/bible-series?sort=title), [聖經難題解答](https://archive.org/details/@user93129/lists/32/q%26a-series?sort=title)
+[天堂系列](https://archive.org/details/@user93129/lists/12/heaven-series?sort=title), [聖經可信嗎系列](https://archive.org/details/@user93129/lists/8/bible-series?sort=title), [聖經難題解答](https://archive.org/details/@user93129/lists/32/q%26a-series?sort=title)
 
 <b>單元講道:</b>[(在此按)](https://archive.org/details/@user93129/lists/38/single-message-series?sort=title)
 
