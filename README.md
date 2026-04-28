@@ -37,6 +37,9 @@
 ---
 
 ## 🎧 袁牧師講道的聖經書本 Bible Books Preached by Rev. Yuan
+如果你每天聽袁牧師的一篇道，讀相關的經文，你將會在兩年內讀完整本聖經。如果你一星期聽他的五篇道和讀經，亦能在兩年半完成整本聖經。\
+加上袁牧師對每本書的介紹(每個系列的第一講)，會幫助你對聖經有深入的認識。 而且，當你學習以聖經解釋聖經，以字面解釋，你將會發現聖經是一致的，沒有任何的矛盾。\
+
 <b>舊約-</b>\
 摩西五經:\
 [創世紀](https://archive.org/details/@user93129/lists/29/genesis-series?sort=title), [出埃及記](https://archive.org/details/@user93129/lists/26/exodus-series?sort=title), [利未記](https://archive.org/details/@user93129/lists/24/leviticus-series?sort=title), [民數記](https://archive.org/details/@user93129/lists/22/numbers-series?sort=title), [申命記](https://archive.org/details/@user93129/lists/17/deuteronomy-series?sort=title).\
